@@ -3,3 +3,5 @@
 console.log("Hello");
 
 console.log('Test');
+
+console.log('Another Test');
